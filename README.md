@@ -3,6 +3,6 @@ AI-based image editing system} where users can upload images, generate masks usi
 
 ![](image_with_mask.png)
 
-#### User prompt example : "a pink colour bed with green pillow"
+### User prompt example : "a pink colour bed with green pillow"
 
 ![](demo_result_rcnn_stable.png)
